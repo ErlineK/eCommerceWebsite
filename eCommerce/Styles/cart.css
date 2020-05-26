@@ -1,0 +1,26 @@
+﻿/*.cartTable {
+    width: 100%;
+    height: 123px;
+    border-style: solid;
+    table-layout: fixed;
+}*/
+
+body {
+    font-family: 'Indie Flower', cursive;
+    color: #77777e;
+}
+
+.textBoxInsert {
+    width: 50px;
+    text-align: center;
+}
+
+#lblTotal {
+    color: #000000;
+    margin: 15px;
+}
+
+#btnRecalculate {
+    margin: 15px;
+}
+

@@ -1,0 +1,47 @@
+﻿body {
+}
+
+.frameContainer {
+    width:48%;
+    float:left;
+}
+
+#customerFrame {
+    width: 100%;
+    height: 500px;
+    border:none;
+}
+
+#detailsFrame {
+    width: 100%;
+    height: 600px;
+    border: none;
+}
+
+#lblTotal {
+    width: 500px;
+    height: 600px;
+    border: none;
+}
+
+.textBoxInsert {
+    width: 50px;
+    text-align: center;
+}
+
+.tableCell {
+    text-align: left;
+    padding: 15px 25px 15px 25px;
+}
+
+#btnPay {
+    float: left;
+    margin-top: 20px;
+}
+
+#lblSalesNotifications {
+    float: left;
+    margin-top: 20px;
+}
+
+

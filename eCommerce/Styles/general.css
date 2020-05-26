@@ -1,0 +1,52 @@
+﻿/*
+.MainPanel {
+    position: absolute;
+    width: 98%;
+}
+    */
+
+body {
+    font-family: 'Indie Flower', cursive;
+    color: #77777e;
+}
+
+.MainButtons {
+    position: absolute;
+    height: 40px;
+    font-family: Arial, Helvetica;
+    font-size: 12pt;
+    color: #32090D;
+    width: 130px;
+    background-color: #DF571E;
+}
+
+button {
+    padding: 5px;
+    border: 0.5px solid #ABABB8;
+    background-color: #E9E6E0;
+}
+
+.generalButton {
+    font-family: 'Indie Flower', cursive;
+    margin-right: 25px;
+    font-size: 18px;
+}
+
+.form_label {
+    min-width: 300px;
+    font-size: 18px;
+}
+
+.form_textbox {
+    border: 1px solid #9999A6;
+    /*background-color: #E9E6E0; */
+    background-color: #ffffff;
+    padding: 3px;
+}
+
+img {
+    border: 1px solid #9999A6;
+}
+
+
+

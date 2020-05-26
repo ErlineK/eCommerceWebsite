@@ -1,0 +1,49 @@
+﻿
+#lblProductIdNotifications, #lblCustomerIdNotifications {
+    width: 80%;
+    float: left;
+    padding: 7px;
+    margin-left: 7px;
+}
+
+#form_holder {
+    width: 98%;
+}
+
+.form_table {
+    width: 420px;
+    float: left;
+    border: none;
+    padding: 10px;
+}
+
+td {
+    padding: 7px;
+}
+
+#imgProductPic {
+    float:left;
+    width: 200px;
+    min-height: 100px;
+    background-color: #E9E6E0; 
+    margin: 15px;
+}
+
+#lstPictures {
+    float:left;
+    font-family: 'Indie Flower', cursive;
+    font-size: 14px;
+    min-height: 200px;
+    position: absolute;
+    padding: 7px;
+    margin: 15px;
+    background-color: #E9E6E0;
+}
+
+
+#buttonContainer {
+    float: left;
+    clear: both;
+    width: 98%;
+    padding: 5px;
+}

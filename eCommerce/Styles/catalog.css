@@ -1,0 +1,66 @@
+﻿html {
+    scrollbar-width: none;
+}
+
+body {
+    font-family: 'Indie Flower', cursive;
+    color: #77777e;
+}
+
+.noScrollForm {
+    scrollbar-width: none;
+}
+
+table {
+    // border-collapse: collapse;
+    font-size: 20px;
+}
+
+    table tr {
+        background-color: #ffffff88;
+        margin: 5px;
+    }
+
+.imgCell {
+    width: 1%;
+    white-space: nowrap;
+    padding-top: 5px;
+}
+
+.buttonCell {
+    text-align: center;
+}
+
+.tableCell {
+    text-align: left;
+    padding: 15px;
+}
+
+.addCartButton {
+    width: 35px;
+    fill: #77777e;
+    filter: invert(47%) sepia(6%) saturate(318%) hue-rotate(202deg) brightness(97%) contrast(88%);
+}
+
+.salesGrid {
+    width: 98%;
+    font-size: 15px;
+    background-color: #ffffff88;
+    color: #77777e;
+    padding: 10px;
+}
+
+.salesGrid td {
+    padding: 10px;        
+}
+
+.totalSalesGrid {
+    width: 98%;
+    font-size: 15px;
+    background-color: #ffffff88;
+    color: #77777e;
+    padding: 10px;
+    text-align: center;
+}
+
+
